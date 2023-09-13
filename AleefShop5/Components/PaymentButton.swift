@@ -1,8 +1,8 @@
 //
-//  PaymentButton.swift
-//  SweaterShopApp
+//  Product.swift
+//  AleefShop
 //
-//  Created by Stephanie Diep on 2021-12-23.
+//  Created by Abdallah Mohammed Nsour on 03/09/2023.
 //
 
 import SwiftUI

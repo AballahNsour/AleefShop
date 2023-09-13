@@ -1,10 +1,9 @@
 //
-//  CartManager.swift
-//  SweaterShopApp
+//  Product.swift
+//  AleefShop
 //
-//  Created by Stephanie Diep on 2022-01-03.
+//  Created by Abdallah Mohammed Nsour on 03/09/2023.
 //
-
 import Foundation
 
 class CartManager: ObservableObject {

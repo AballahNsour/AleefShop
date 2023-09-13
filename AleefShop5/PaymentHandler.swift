@@ -1,8 +1,8 @@
 //
-//  PaymentHandler.swift
-//  SweaterShopApp
+//  Product.swift
+//  AleefShop
 //
-//  Created by Stephanie Diep on 2022-01-03.
+//  Created by Abdallah Mohammed Nsour on 03/09/2023.
 //
 
 // Note: The code below was taken from the sample app from https://developer.apple.com/documentation/passkit/apple_pay/offering_apple_pay_in_your_app - shortened and adapted for this application
